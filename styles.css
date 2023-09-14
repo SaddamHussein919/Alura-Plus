@@ -19,7 +19,7 @@ body {
 .principal {
   background-image: url("https://static.vakinha.com.br/uploads/vakinha/image/184786/bluezao.jpg");
   background-repeat: no-repeat;
-  background-size: contain; 
+  background-size: cover; 
 }
 
 .container {
