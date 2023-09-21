@@ -96,12 +96,6 @@ body {
   width: 70%;
 }
 
-.descricao__titulo {
-  font-weight: 700;
-font-size: 48px;
-margin: 0.1em;
-}
-
 .descricao__texto {
 color: darkgray;
   line-height: 150%;
