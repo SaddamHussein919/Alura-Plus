@@ -39,7 +39,7 @@ body {
 }
 
 .botao_secundario {
-  background-color: transparent;
+  background-color: black;
   border: 2px solid white;
   border: 2px solid var(--branco-principal);
 }
