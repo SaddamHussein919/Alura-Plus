@@ -101,3 +101,7 @@ color: rgb(175, 0, 0);
   line-height: 150%;
 }
 
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
