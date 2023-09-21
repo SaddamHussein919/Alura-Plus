@@ -77,7 +77,7 @@ body {
 }
 
 .secundario__imagem {
-  width: 800%;
+  width: 80%;
 }
 
 .descricao__titulo {
@@ -90,4 +90,8 @@ body {
 .descricao__texto {
   color: var(--cinza-secundario);
   margin-bottom: 0.1em;
+}
+
+.imagem__secundaria {
+  width: 100%;
 }
