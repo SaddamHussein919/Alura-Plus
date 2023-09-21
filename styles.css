@@ -36,6 +36,7 @@ body {
   text-decoration: none;
   display: block;  
   color: red;
+  border: 2px solid var(--branco-principal);
 }
 
 .botao_secundario {
