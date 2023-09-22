@@ -125,8 +125,10 @@ color: rgb(175, 0, 0);
   background-color: transparent;
   display: block;  
   color: red;
+  
 }
 
 .outro__botao {
   background-color:#880000 ;
+  margin-top: 1em;
 }
