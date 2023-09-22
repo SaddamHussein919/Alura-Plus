@@ -120,7 +120,7 @@ color: rgb(175, 0, 0);
 .secundario__botao {
   display: inline-block;
   padding: 1em;
-  margin: 5em;
+  margin: 1em;
   border-radius: 4px;
   background-color: transparent;
   display: block;  
