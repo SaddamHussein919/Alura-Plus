@@ -5,6 +5,22 @@
   --botao-azul: #000000;
   --cor-de-fundo: #00030C;
   --fonte-principal: 'Inter', sans-serif;    
+  padding: 1em;
+  border-radius: 4px;
+  color: var(--branco-principal);
+  text-decoration: none;
+  display: block;  
+  color: red;
+}
+
+.botao_secundario {
+  background-color: transparent;
+  border: 2px solid white;
+  border: 2px solid var(--branco-principal);
+}
+
+.container__titulo {
+  font-size: 28px;
   --botao-azul-efeito: #3c92fa;
 }
 
