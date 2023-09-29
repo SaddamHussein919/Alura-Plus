@@ -137,5 +137,6 @@ color: rgb(175, 0, 0);
 .dispositivos__lista {
   display: flex;
 align-items: center;
+justify-content: center;
   
 }
