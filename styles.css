@@ -136,7 +136,6 @@ color: rgb(175, 0, 0);
 
 .dispositivos {
   display: flex;
-  justify-content: center;
-  direction: row;
+  flex-direction: row;
   
 }
