@@ -13,6 +13,7 @@
   color: red;
 }
 
+align-items baseline
 .botao_secundario {
   background-color: transparent;
   border: 2px solid white;
@@ -131,4 +132,11 @@ color: rgb(175, 0, 0);
 .outro__botao {
   background-color:#880000 ;
   margin-top: 1em;
+}
+
+.dispositivos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
