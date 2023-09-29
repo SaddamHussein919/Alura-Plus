@@ -134,8 +134,8 @@ color: rgb(175, 0, 0);
   margin-top: 1em;
 }
 
-.dispositivos {
+.dispositivos__lista {
   display: flex;
-  flex-direction: column-reverse;
+align-items: center;
   
 }
