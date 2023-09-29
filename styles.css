@@ -138,5 +138,6 @@ color: rgb(175, 0, 0);
   display: flex;
   justify-content: center;
   align-items: center;
+  direction: row;
   
 }
