@@ -136,6 +136,6 @@ color: rgb(175, 0, 0);
 
 .dispositivos {
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   
 }
