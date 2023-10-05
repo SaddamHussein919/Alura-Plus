@@ -149,4 +149,5 @@ justify-content: center;
   display: flex;
   text-align: center;
   justify-content: center;
+  justify-content: space-between;
 }
