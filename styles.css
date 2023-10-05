@@ -144,3 +144,9 @@ justify-content: center;
 .dispositivos {
   text-align: center;
 }
+
+.lista__item2 {
+display: flex;
+align-items: center;
+justify-content: center;
+}
