@@ -145,8 +145,8 @@ justify-content: center;
   text-align: center;
 }
 
-.lista__item2 {
-display: flex;
-align-items: center;
-justify-content: center;
+.ul__lista {
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
