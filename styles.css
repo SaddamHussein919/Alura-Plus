@@ -162,3 +162,7 @@ ul li a {
   color: rgb(95, 0, 0);
     line-height: 150%;
   }
+
+  .imagem_muito_especifica {
+    text-align: center;
+  }
